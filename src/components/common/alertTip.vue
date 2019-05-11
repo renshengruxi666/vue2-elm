@@ -7,7 +7,7 @@
             </div>
             <p class="tip_text">{{alertText}}</p>
             <div class="confrim" @click="closeTip">确认</div>
-            aaa
+            aaabbb
         </section>
     </div>
 </template>
