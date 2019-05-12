@@ -7,7 +7,7 @@
                 <span></span>
             </div>
             <p class="tip_text">{{alertText}}</p>
-            <div class="confrim" @click="closeTip">确认sddsdf</div>
+            <div class="confrim" @click="closeTip">确认2222</div>
         </section>
     </div>
 </template>
