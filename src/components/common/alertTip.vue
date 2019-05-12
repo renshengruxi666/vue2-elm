@@ -8,6 +8,7 @@
             </div>
             <p class="tip_text">{{alertText}}</p>
             <div class="confrim" @click="closeTip">确认rrrrssswww</div>
+
         </section>
     </div>
 </template>
