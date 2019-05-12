@@ -1,5 +1,6 @@
  <template>
     <div class="alet_container">
+      saddfdfd
 	    <section class="tip_text_container">
             <div class="tip_icon">
                 <span></span>
@@ -7,11 +8,10 @@
             </div>
             <p class="tip_text">{{alertText}}</p>
             <div class="confrim" @click="closeTip">确认</div>
-            aaabbbcccddd
         </section>
     </div>
 </template>
-
+ dfasfdg
 <script>
     export default {
     	data(){
@@ -21,7 +21,7 @@
             }
         },
         mounted(){
-
+      gdsgffgfg
         },
         props: ['alertText'],
         methods: {
